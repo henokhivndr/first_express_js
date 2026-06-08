@@ -12,7 +12,7 @@ Ini adalah proyek API RESTful sederhana untuk mengelola data produk. Proyek ini 
 * **Runtime**: Node.js
 * **Framework**: Express.js
 * **Database**: [MySQL]
-* **ORM/Query Builder**: raw SQL]
+* **ORM/Query Builder**: [raw SQL]
 
 ## 📋 Prasyarat
 Pastikan Anda sudah menginstal:
